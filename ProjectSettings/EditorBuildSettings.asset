@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu/Credits.unity
+    guid: 93c5a762fd5d1df45b5c54768d789561
+  - enabled: 1
+    path: Assets/Scenes/Level/CutScenes.unity
+    guid: 9368c45e7930e2544be6e311cc1b8efb
+  - enabled: 1
+    path: Assets/Scenes/Level/StartLevel.unity
+    guid: af5ab4a681cddd345901543c483d375b
+  - enabled: 1
+    path: Assets/Scenes/Level/Episode1.unity
+    guid: 45bc58568a3a9434a998c78d69fb333c
+  - enabled: 1
+    path: Assets/Scenes/Level/Episode2.unity
+    guid: 72574be34e8198e429d7751aa2569994
+  - enabled: 1
+    path: Assets/Scenes/Level/Episode3.unity
+    guid: 763bc88343dd5654bbb983d3cd4a8f88
+  - enabled: 1
+    path: Assets/Scenes/Level/FizikiTest.unity
+    guid: 5a08a46f614dcba4d96ad0f19deda426
+  - enabled: 1
+    path: Assets/Scenes/Level/BossFight.unity
+    guid: 5b568a1cfe3fa34438752faae985fee0
+  - enabled: 1
+    path: "Assets/Scenes/Level/Alt\u0131nToplama.unity"
+    guid: b5f670884526b9e43a0bbfccc9d7ad25
+  - enabled: 1
+    path: Assets/Scenes/Level/Finish.unity
+    guid: 2c1d8cc7711912540a381675ad879a38
+  - enabled: 1
+    path: Assets/Scenes/Level/KendiniFedaEt.unity
+    guid: 2cca1ce0714c94c4faa0b6671fca0950
+  - enabled: 1
+    path: "Assets/Scenes/Level/Rosay\u0131FedaEt.unity"
+    guid: d0b514dde88c27b449ea7de7216e3def
+  - enabled: 1
+    path: Assets/Scenes/Level/RosaScene.unity
+    guid: 871959355e9b10440a9a563a5b013e3a
+  - enabled: 1
+    path: Assets/Scenes/Level/RichardScene.unity
+    guid: ef3722c79aa215041acf19b3ef8af5b5
+  - enabled: 1
+    path: Assets/Scenes/Level/Duello.unity
+    guid: bf5cdc3ff7b43474591b9a9460587402
+  m_configObjects: {}
